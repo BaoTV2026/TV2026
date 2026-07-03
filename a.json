@@ -1,13 +1,14 @@
 {
-  "YERM2089": {
-    "device_name": "Tivi của khách hàng VIP",
-    "name": "Super Admin",
-    "expire": "2099-12-31",
-    "is_online": true
-    },
-  "E8WC9573": {
-    "device_name": "Tivi của khách hàng số 2",
-    "expire": "2099-10-15",
-    "is_online": true
-  }
+    "expire": "TRUE",
+    "expires": "2030-12-31",
+    "status": 1,
+    "active": true,
+    "is_active": true,
+    "activation_date": "2030-12-31",
+    "device_status": "active",
+    "popup_active": false,
+    "marquee_active": false,
+    "is_online": true,
+    "vip": true,
+    "password": ""
 }
