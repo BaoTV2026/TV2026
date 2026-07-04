@@ -4,12 +4,17 @@
             "is_active": false,
             "marquee_active": false
         },
-        "password": "1986"
+        "password": ""
     },
     "update": {
         "note": "",
         "url": "",
         "version": ""
-    }
+    },
+    "status": 1,
+    "active": true,
+    "is_active": true,
+    "vip": true,
+    "expire_date": "2099-12-31"
 }
 
