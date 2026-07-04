@@ -4,15 +4,15 @@
             "is_active": false,
             "marquee_active": false
         },
-        "password": ""
+        "password": "9999"
     },
     "update": {
         "note": "",
         "url": "",
         "version": ""
     },
-    "active": true,
-    "is_active": true,
+    "active": false,
+    "is_active": false,
     "vip": true,
     "expire_date": "2099-12-31"
 }
