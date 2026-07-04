@@ -10,15 +10,6 @@
         "note": "",
         "url": "",
         "version": ""
-    },
-    "devices": {
-        "C54548E7": {
-            "active": true,
-            "name": "TV Khach Hang 1"
-        },
-        "MÃ_THIẾT_BỊ_KHÁC": {
-            "active": true,
-            "name": "TV Phòng Khách"
-        }
     }
 }
+
