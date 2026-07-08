@@ -1,1 +1,1 @@
-ar.tvplayer.tv 2.0.1 Tivimate.apk
+com.nghenhin24h.vietplaytv 2.5 VietPlayTV_2.5BLOCKThongBao.apk
